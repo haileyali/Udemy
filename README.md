@@ -6,4 +6,4 @@
 |Eren|Roots|[![Eren](https://img.shields.io/badge/sshc-discord-red)](https://discord.com/users/729960681293611009)|
 
 ## Udemy
-Atıl Samancıoğlu ve Diğer Tüm Hocalarımızın Kursları İle Alakalı Ders Notları, Hata Çözümleri Ve Dahası Açtığım Kısımdır
+Atıl Samancıoğlu ve Diğer Tüm Hocalarımızın Kursları İle Alakalı Ders Notları, Hata Çözümleri Ve SSHC Discord Sunucum İçin Açtığım Kısımdır
