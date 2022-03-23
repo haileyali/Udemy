@@ -1,4 +1,4 @@
-# Udemy                                                                              
+# SSHC                                                                              
  |SSHC|Yetki|Linkler|
 |:---:|:---:|:---:|
 |Ali|Server Admin|[![Ali](https://img.shields.io/badge/sshc-discord-black)](https://discord.com/users/846134648433410100)|
